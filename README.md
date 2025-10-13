@@ -13,8 +13,7 @@
 
 ## 🚀 About Me
 
-✨ Junior Web Developer | Open Source Contributor | UI/UX Enthusiast  
-🎓 Diploma in Information Technology (Web Development), NIT Perth  
+✨ Full Stack Web Developer | Open Source Contributor | UI/UX Enthusiast  
 💡 Passionate about building clean, accessible, and user-friendly apps  
 🤝 Loves collaborative development, teamwork, and continuous learning
 
