@@ -1,7 +1,7 @@
 <!-- Banner or Profile Image (Optional) -->
 <!-- ![Banner](https://your-image-link.com/banner.png) -->
 
-<h1 align="center">Hi there, I'm Kiran Tikoo 👋</h1>
+<h1 align="center">Hi there, I'm Kiran 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Developer-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -89,24 +89,6 @@
   Full-stack web apps, Bootstrap, database integration, agile team practices.
 - **Technical Assistant (Volunteer)** | Kwinana Library | *May 2024 – Feb 2025*  
   Tech support, digital literacy, smoother digital engagement.
-
----
-
-## 🎓 Education
-
-- Diploma of IT (Web Development), NIT Perth, WA *(2025)*
-- Certificate IV & III Accounting and Bookkeeping *(2023)*
-- Bachelor of Commerce, Utkal University, India *(2000–2003)*
-
----
-
-## 🌱 Professional Development
-
-- Member, Australian Computer Society (ACS)
-- Participant, NIT’s HYPE Employability Program
-- Learning Django, Laravel, Git workflows, and PHP best practices
-
----
 
 ## 📊 GitHub Stats
 
