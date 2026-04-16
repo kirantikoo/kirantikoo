@@ -3,7 +3,7 @@
 <p align="center">
   💻 Full-Stack & AI Web Developer <br>
   📍 Perth, Australia <br>
-  🎓 Diploma in Advanced Programming (Expected 2026)
+  <!-- 🎓 Diploma in Advanced Programming (Expected 2026) -->
 </p>
 
 <p align="center">
