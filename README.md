@@ -46,36 +46,28 @@
 
 <table>
   <tr>
-    <td><a href="https://github.com/SCRUMFORCE/website"><b>SCRUMFORCE/website</b></a></td>
-    <td>UI improvements, bug fixes, performance enhancements.</td>
+    <td><a href="https://github.com/kirantikoo/ShopYourCloset"><b>ShopYourCloset</b></a></td>
+    <td>Startup landing page focused on clean UI/UX, branding, and user engagement. Built as part of BetaBuilders collaboration.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Digitai-agency/digitai-agency"><b>Digitai-agency/digitai-agency</b></a></td>
-    <td>Front-end features, responsive layouts, clean UI.</td>
+    <td><a href="https://github.com/kirantikoo"><b>Library Management System</b></a></td>
+    <td>CLI-based PHP system with validation, search, and JSON data handling. Designed based on real client requirements.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/DatasetLab-org/website"><b>DatasetLab-org/website</b></a></td>
-    <td>Responsive design features, improved presentation.</td>
+    <td><a href="https://github.com/SCRUMFORCE/website"><b>SCRUMFORCE Website</b></a></td>
+    <td>Contributed UI improvements, bug fixes, and performance enhancements in a collaborative development environment.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/SeedStart-World/website"><b>SeedStart-World/website</b></a></td>
-    <td>Landing page and component structure updates.</td>
+    <td><a href="https://github.com/Digitai-agency/digitai-agency"><b>Digitai Agency</b></a></td>
+    <td>Developed responsive front-end components with focus on modern design and clean layout.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/AVTOMAT-ONLINE/website"><b>AVTOMAT-ONLINE/website</b></a></td>
-    <td>Navigation and design improvements.</td>
+    <td><a href="https://github.com/kirantikoo"><b>Android Applications (Kotlin)</b></a></td>
+    <td>Built multiple apps demonstrating logic building, input handling, and file operations using Kotlin.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/carsads-online/website"><b>Carsads-Online/website</b></a></td>
-    <td>Classified-style front-end website layout.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/HeartFull-online/website"><b>HeartFull-online/website</b></a></td>
-    <td>Designed and developed a responsive UI with HTML/CSS.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/kirantikoo/Django-2"><b>Django-2</b></a></td>
-    <td>Django prototype and learning project.</td>
+    <td><a href="https://github.com/kirantikoo"><b>Data Modelling Projects</b></a></td>
+    <td>Designed ER diagrams and normalized databases (up to 3NF) using real-world business scenarios.</td>
   </tr>
 </table>
 
