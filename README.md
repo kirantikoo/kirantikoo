@@ -3,7 +3,7 @@
 <p align="center">
   💻 Full-Stack & AI Web Developer <br>
   📍 Perth, Australia <br>
-  🎓 Diploma in Advanced Programming (2026)
+  🎓 Diploma in Advanced Programming (Expected 2026)
 </p>
 
 <p align="center">
@@ -17,12 +17,20 @@
 
 ## 🚀 About Me
 
-I build **real-world applications** across web, mobile, and desktop platforms with a strong focus on clean architecture and practical solutions.
+I build **real-world applications** across web, mobile, and desktop platforms, focusing on clean architecture and practical solutions.
 
-* 🔭 Working on full-stack & startup projects
+* 🔭 Working on full-stack and startup projects
 * 🌱 Learning C#, .NET, Kotlin, Laravel & AI integration
-* 👥 BetaBuilders (Startup Accelerator)
+* 👥 Part of BetaBuilders (Startup Accelerator)
 * 🎯 Goal: Junior AI Web Developer
+
+---
+
+## 🔥 What I’m Currently Building
+
+* Full-stack web applications using PHP & MySQL
+* Desktop applications with C# and WPF
+* Responsive UI-focused web projects
 
 ---
 
@@ -30,6 +38,15 @@ I build **real-world applications** across web, mobile, and desktop platforms wi
 
 * 🔗 https://shopyourcloset.github.io/website/
 * 🔗 https://kirantikoo.github.io/library-project/
+
+---
+
+## 🏆 Featured Projects
+
+* 🔹 **Library Management Website** – Responsive multi-page web application
+* 🔹 **Drone Service Application** – C# WPF desktop system with class library architecture
+* 🔹 **PHP Web Application** – Full-stack system with database integration
+* 🔹 **Portfolio Website** – Personal project showcase
 
 ---
 
@@ -43,12 +60,12 @@ I build **real-world applications** across web, mobile, and desktop platforms wi
 
 ---
 
-## 🏆 Featured Projects
+## 🧩 Core Strengths
 
-* 🔹 Library Management Website
-* 🔹 Drone Service Application (C# WPF)
-* 🔹 PHP Web Application (Full Stack)
-* 🔹 Portfolio Website
+* Full-stack development (PHP + MySQL)
+* Desktop application development (C# / WPF)
+* UI/UX focused front-end development
+* Real-world project experience
 
 ---
 
@@ -64,7 +81,7 @@ I build **real-world applications** across web, mobile, and desktop platforms wi
 
 ---
 
-## 📬 Connect
+## 📬 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kirantikoo">
