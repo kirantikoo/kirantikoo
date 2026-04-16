@@ -1,44 +1,40 @@
-<!-- Banner or Profile Image (Optional) -->
-<!-- ![Banner](https://your-image-link.com/banner.png) -->
-
-<h1 align="center">Hi there, I'm Kiran 👋</h1>
+<h1 align="center">Hi, I'm Kiran Tikoo 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Developer-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Wellard,%20WA-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Web%20Developer-in%20progress-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Perth,%20WA-orange?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-✨ Full Stack Web Developer | Open Source Contributor | UI/UX Enthusiast  
-💡 Passionate about building clean, accessible, and user-friendly apps  
-🤝 Loves collaborative development, teamwork, and continuous learning
+💻 Full Stack Developer building real-world applications across web, mobile, and desktop platforms
+🎓 Diploma of IT (Advanced Programming) – South Metropolitan TAFE (Expected 2026)
+
+I focus on:
+
+* Developing **practical, user-focused systems**
+* Writing **clean and maintainable code**
+* Working on **startup and collaborative projects**
+
+🔭 Currently working on: Full-stack web applications & startup platforms
+🌱 Learning: C#, .NET, Kotlin, PHP, Laravel & AI integration
+👥 Part of: BetaBuilders (Startup Accelerator)
+🎯 Goal: Junior AI Web Developer
 
 ---
 
-## 🛠️ Core Skills
+## 🌐 Live Projects
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-181717?logo=git&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/>
-</p>
+* 🔗 **ShopYourCloset**
+  https://shopyourcloset.github.io/website/
+  → Startup landing page with strong UI/UX and branding
 
-**Development Concepts:**  
-`Responsive Design` | `Accessibility` | `API Integration` | `SEO Basics` | `QA Testing`  
+* 🔗 **Library Management Website**
+  https://kirantikoo.github.io/library-project/
+  → Multi-page responsive website for managing library interface
 
 ---
 
@@ -46,41 +42,58 @@
 
 <table>
   <tr>
-    <td><a href="https://shopyourcloset.github.io/website"><b>ShopYourCloset</b></a></td>
-    <td>Startup landing page focused on clean UI/UX, branding, and user engagement. Built as part of BetaBuilders collaboration.</td>
+    <td><a href="https://github.com/kirantikoo/library-project"><b>Library Project</b></a></td>
+    <td>Responsive library management website with multiple pages including dashboard, login, and book listings.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/kirantikoo"><b>Library Management System</b></a></td>
-    <td>CLI-based PHP system with validation, search, and JSON data handling. Designed based on real client requirements.</td>
+    <td><a href="https://github.com/kirantikoo/DroneServiceApplication"><b>Drone Service Application</b></a></td>
+    <td>C# WPF application implementing OOP, service queues, and system design concepts.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/SCRUMFORCE/website"><b>SCRUMFORCE Website</b></a></td>
-    <td>Contributed UI improvements, bug fixes, and performance enhancements in a collaborative development environment.</td>
+    <td><a href="https://github.com/kirantikoo/ctc_project"><b>CTC Project</b></a></td>
+    <td>PHP-based web application with backend logic and database integration.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Digitai-agency/digitai-agency"><b>Digitai Agency</b></a></td>
-    <td>Developed responsive front-end components with focus on modern design and clean layout.</td>
+    <td><a href="https://github.com/kirantikoo/Kiran_Portfolio"><b>Portfolio Website</b></a></td>
+    <td>Personal portfolio showcasing projects, skills, and web design capabilities.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/kirantikoo"><b>Android Applications (Kotlin)</b></a></td>
-    <td>Built multiple apps demonstrating logic building, input handling, and file operations using Kotlin.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/kirantikoo"><b>Data Modelling Projects</b></a></td>
-    <td>Designed ER diagrams and normalized databases (up to 3NF) using real-world business scenarios.</td>
+    <td><a href="https://github.com/kirantikoo/weather-project"><b>Weather App</b></a></td>
+    <td>JavaScript-based application using APIs to fetch and display real-time weather data.</td>
   </tr>
 </table>
 
 ---
 
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C%23-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-181717?logo=git&logoColor=white&style=for-the-badge"/>
+</p>
+
+---
+
 ## 💼 Experience
 
-- **Volunteer Full-Stack Web Developer** | Beta Builders | *Aug 2025 – Present*  
-  Front-end & UI dev, optimization, bug fixing, and collaborative Git workflows.
-- **Full-Stack Developer (Internship)** | Business Web Solutions | *May 2025 – Present*  
-  Full-stack web apps, Bootstrap, database integration, agile team practices.
-- **Technical Assistant (Volunteer)** | Kwinana Library | *May 2024 – Feb 2025*  
-  Tech support, digital literacy, smoother digital engagement.
+* **Volunteer Full-Stack Web Developer** – BetaBuilders *(2025 – Present)*
+  Working on startup platforms, UI improvements, and collaborative Git workflows
+
+* **Full-Stack Developer (Internship)** – Business Web Solutions *(2025 – Present)*
+  Developing web applications, integrating backend systems, and working with databases
+
+* **Technical Assistant (Volunteer)** – Kwinana Library *(2024 – 2025)*
+  Provided technical support and improved digital accessibility
+
+---
 
 ## 📊 GitHub Stats
 
@@ -91,19 +104,20 @@
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:kirantikoo@gmail.com"><img src="https://img.shields.io/badge/Email-kirantikoo@gmail.com-red?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/kirantikoo"><img src="https://img.shields.io/badge/LinkedIn-kirantikoo-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/kirantikoo"><img src="https://img.shields.io/badge/GitHub-kirantikoo-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:kirantikoo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kirantikoo@gmail.com-red?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/kirantikoo">
+    <img src="https://img.shields.io/badge/LinkedIn-kirantikoo-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/kirantikoo">
+    <img src="https://img.shields.io/badge/GitHub-kirantikoo-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
 
-<p align="center"><i>“Eager to learn, adapt, and contribute to professional, real-life development projects.”</i></p>
-
-<!-- Optionally add a cool visitor counter -->
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kirantikoo&style=for-the-badge" />
-</p> -->
+<p align="center"><i>Focused on building real-world applications and growing into an industry-ready developer 🚀</i></p>
