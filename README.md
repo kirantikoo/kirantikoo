@@ -46,7 +46,7 @@
 
 <table>
   <tr>
-    <td><a href="https://github.com/kirantikoo/ShopYourCloset"><b>ShopYourCloset</b></a></td>
+    <td><a href="[https://github.com/kirantikoo/ShopYourCloset](https://shopyourcloset.github.io/website/)"><b>ShopYourCloset</b></a></td>
     <td>Startup landing page focused on clean UI/UX, branding, and user engagement. Built as part of BetaBuilders collaboration.</td>
   </tr>
   <tr>
