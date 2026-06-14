@@ -37,7 +37,7 @@ I build **real-world applications** across web, mobile, and desktop platforms, f
 ## 🌐 Live Projects
 
 * 🔗 https://shopyourcloset.github.io/website/
-* 🔗 https://kirantikoo.github.io/library-project/
+* 🔗 https://kirantikoo.github.io/library-management-website/
 
 ---
 
