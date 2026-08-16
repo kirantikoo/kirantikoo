@@ -77,13 +77,6 @@ I build **real-world applications** across web, mobile, and desktop platforms, f
     alt="Kiran Tikoo GitHub Stats"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=kirantikoo&theme=tokyonight"
-    alt="Kiran Tikoo GitHub Streak"
-  />
-</p>
 ---
 
 ## 📬 Connect With Me
