@@ -77,6 +77,7 @@ I build **real-world applications** across web, mobile, and desktop platforms, f
     alt="Kiran Tikoo GitHub Stats"
   />
 </p>
+
 ---
 
 ## 📬 Connect With Me
