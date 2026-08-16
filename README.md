@@ -72,13 +72,18 @@ I build **real-world applications** across web, mobile, and desktop platforms, f
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirantikoo&show_icons=true&theme=tokyonight"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirantikoo&theme=tokyonight"
+    alt="Kiran Tikoo GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirantikoo&theme=tokyonight"/>
+  <img
+    src="https://streak-stats.demolab.com?user=kirantikoo&theme=tokyonight"
+    alt="Kiran Tikoo GitHub Streak"
+  />
 </p>
-
 ---
 
 ## 📬 Connect With Me
